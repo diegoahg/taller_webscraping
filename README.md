@@ -5,6 +5,8 @@ Condigo con Pandas
 ## Instalación
 - pip install pandas
 - pip install lxml
+- pip install BeautifulSoup4
+- pip install requests
 
 ## Quick start
 python main.py
