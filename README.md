@@ -4,6 +4,7 @@ Condigo con Pandas
 - Tener instalado python version 3
 ## Instalación
 - pip install pandas
+- pip install lxml
 
 ## Quick start
 python main.py
