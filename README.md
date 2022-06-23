@@ -8,6 +8,11 @@ Condigo con Pandas
 
 ## Quick start
 python main.py
+
+## Quick start with Docker
+- docker build -t tallerws .
+- docker run --rm -it tallerws:latest
+
 ## Contribuciones
 Abierto para la contribución de los estudiantes de la UTEM
 
